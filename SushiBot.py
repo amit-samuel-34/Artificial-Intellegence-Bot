@@ -4,11 +4,11 @@ from numpy import *
 import os
 import time
 import win32con, win32api
+import Cord
 
 
 # Globals
-# ------------------
-import Cord
+
 
 x_pad = 186
 y_pad = 219
