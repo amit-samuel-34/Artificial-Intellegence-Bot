@@ -3,7 +3,6 @@ import os
 import time
 
 # Globals
-# ------------------
 x_pad = 186
 y_pad = 219
 
