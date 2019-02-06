@@ -1,10 +1,10 @@
 # Artificial-Intellegence-Bot
 A bot built to play the popular computer game "Sushi Go Round"(Code in src folder).
 
-(larger video with lower FPS can be found below) 
+**(larger video with lower FPS can be found below)** 
 <a href="https://imgflip.com/gif/2t1e8y"><img src="https://i.imgflip.com/2t1e8y.gif" title="made at imgflip.com"/></a>
 
-The objective of the game is to make suh=shi for any of 6 costumers, while maintaining food inventory, happiness of costumers, and a clean work area.
+The objective of the game is to make sushi for any of 6 costumers, while maintaining food inventory, happiness of costumers, and a clean work area.
 
 Step 1:
 To begin, the ImageGrab and ImageOps modules are imported from the Python Imaging Library in order to capture the playing screen to extract valuable pixel data from. The coordinates for the top left pixel and bottom right pixel of the play screen are found to use as global references for the rest of the program to forsee potential advertizments moving the play screen, thus altering the positions clicked by the mouse.
