@@ -18,7 +18,8 @@ Implementing the two most dense functions in makeFood() and buyFood() utilize th
 In order to indicate to the computer when to buyFood(), a counter dictionary is updated as the bot makes food. Once idicated the computer will buy more food if the RGB value of the buy menu item is not grey(indicating there is not enough money to buy this item). At this point, the driver can run and play the game.
 
 <a href="https://imgflip.com/gif/2t1fam"><img src="https://i.imgflip.com/2t1fam.gif" title="made at imgflip.com"/></a>
-**Description of the video**
+
+**Description of the video:**
 - The bot buys rice in the bottom right corn to replenish its stock(shown on the bottom left)
 - The bot creates a type of sushi on the mat in the middle and places it on the conveyor belt
 - Costomers are eating towards the top
