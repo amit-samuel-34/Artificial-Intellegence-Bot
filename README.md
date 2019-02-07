@@ -28,3 +28,5 @@ In order to indicate to the computer when to buyFood(), a counter dictionary is 
 - The bot creates a type of sushi on the mat in the middle and places it on the conveyor belt
 - Costomers are eating towards the top
 - If a food is not available(grayed out), we see the bot keep recurring until it is
+
+*Inspiration from Chris Kiehl*
