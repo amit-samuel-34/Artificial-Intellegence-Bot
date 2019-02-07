@@ -6,7 +6,7 @@ A bot built to play the popular computer game "Sushi Go Round"(Code in src folde
 
 
 **Print output while running**
-<img src="pictures/2019-02-06%20(1).png" width=700>
+<img src="pictures/2019-02-06%20(1).png" width=800>
 
 The objective of the game is to make sushi for any of 6 costumers, while maintaining food inventory, happiness of costumers, and a clean work area.
 
