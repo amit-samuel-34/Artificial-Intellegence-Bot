@@ -1,5 +1,4 @@
 
-
 f_shrimp = (28, 325)
 f_rice = (105, 337)
 f_nori = (35, 372)
@@ -14,16 +13,17 @@ phone = (582, 360)
 menu_toppings = (553, 267)
 
 t_shrimp = (490, 223)
-t_nori = (565, 221)
-t_roe = (493, 276)
-t_salmon = (570, 274)
-t_unagi = (492, 348)
-t_exit = (595, 325)
+t_unagi = (565, 221) #unagi 565, 221
+t_nori = (493, 276)#nori 493, 276
+t_roe = (570, 274)#roe 570, 274
+t_salmon = (492, 348) #salmon 492, 348
+t_exit = (601, 340)
 
 menu_rice = (549, 292)
-buy_rice = (550, 285)
+buy_rice = (564, 285)
 
 delivery_norm = (497, 292)
+
 
 """
 
@@ -64,9 +64,6 @@ im.getpixel(Cord.buy_rice)
 (109, 123, 127)
 im.getpixel(Cord.buy_rice)
 (109, 123, 127)
-it = screenGrab()
-it.getpixel(Cord.buy_rice)
-(127, 127, 127)
 
 """
 
