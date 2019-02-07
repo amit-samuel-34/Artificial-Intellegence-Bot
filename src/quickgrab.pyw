@@ -17,8 +17,8 @@ y_pad = 345
 Play area =  x_pad+1, y_pad+1, 796, 825
 """
 def screenGrab():
-    box = (x_pad + 1, y_pad + 1, x_pad + 640, y_pad + 481)
-    im = ImageGrab.grab(box)
+    box = ()
+    im = ImageGrab.grab()
     im.save(os.getcwd() + '\\full_snap__' + str(int(time.time())) +
             '.png', 'PNG')
 
