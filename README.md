@@ -2,7 +2,7 @@
 A bot built to play the popular computer game "Sushi Go Round"(Code in src folder).
 
 **(larger video with lower FPS can be found below)** 
-<a href="https://imgflip.com/gif/2t1e8y"><img src="https://i.imgflip.com/2t1e8y.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2t1e8y"><img src="https://i.imgflip.com/2t1e8y.gif" title="made at imgflip.com"/></a width=600>
 
 
 **Print output while running**
